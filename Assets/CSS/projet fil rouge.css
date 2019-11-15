@@ -1,0 +1,35 @@
+/*.bordur:hover{
+    border-top: 5px solid rgb(70, 138, 110);
+    
+}*/
+.nav-pills .nav-link:hover {
+    background: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(34, 37, 29, 0.219));
+}
+
+p:first-of-type:first-letter {
+        float:left;
+        font-size: 6em;
+        padding: 0.05em 0.05em 0 0;
+}
+a{
+    font-family: 'Orbitron', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+.nav-link:hover{
+    color: orange;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.vid{
+    width: 100%;
+}
+
+.imgPos{
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
